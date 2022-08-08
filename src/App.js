@@ -7,6 +7,7 @@ function App() {
   const [changes, setChanges]=useState('default')
 
   var Array =["button","console","change","align"]
+  var Array =["express","require","listen","bodyParser","product","indexOf","delete","splice","success","mongoose","connect","schema","params","product","findOneAndUpdate","controllers","models","mongoUri","exports","config","exec","status","remove"]
 
   function increment(){
     setNumber(number+1)
